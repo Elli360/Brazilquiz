@@ -63,7 +63,7 @@ var quizQuestions = [{
     choiceD: "Beans",
     correctAnswer: "c"},
     {
-    question: "What does the word BOLO mean in Portuguse?",
+    question: "What does the word BOLO mean in Portuguese?",
     choiceA: "Head",
     choiceB: "Cake",
     choiceC: "Beautiful",
