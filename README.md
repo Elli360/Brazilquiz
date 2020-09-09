@@ -14,3 +14,5 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+
+I added my questions directly on js file and used getelementbyid per HTML elements to call the actions. 
